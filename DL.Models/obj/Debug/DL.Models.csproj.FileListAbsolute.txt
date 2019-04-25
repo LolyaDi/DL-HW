@@ -4,3 +4,9 @@ c:\users\бейсеновад.corp.000\source\repos\DL.ConsoleApp\DL.Models\obj\
 c:\users\бейсеновад.corp.000\source\repos\DL.ConsoleApp\DL.Models\obj\Debug\DL.Models.csproj.CoreCompileInputs.cache
 c:\users\бейсеновад.corp.000\source\repos\DL.ConsoleApp\DL.Models\obj\Debug\DL.Models.dll
 c:\users\бейсеновад.corp.000\source\repos\DL.ConsoleApp\DL.Models\obj\Debug\DL.Models.pdb
+C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.Models\bin\Debug\DL.Models.dll
+C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.Models\bin\Debug\DL.Models.pdb
+C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.Models\obj\Debug\DL.Models.csprojAssemblyReference.cache
+C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.Models\obj\Debug\DL.Models.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.Models\obj\Debug\DL.Models.dll
+C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.Models\obj\Debug\DL.Models.pdb

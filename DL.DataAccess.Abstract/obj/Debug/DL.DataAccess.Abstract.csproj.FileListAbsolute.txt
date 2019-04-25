@@ -7,3 +7,12 @@ c:\users\бейсеновад.corp.000\source\repos\DL.ConsoleApp\DL.DataAccess.
 c:\users\бейсеновад.corp.000\source\repos\DL.ConsoleApp\DL.DataAccess.Abstract\obj\Debug\DL.DataAccess.Abstract.csproj.CopyComplete
 c:\users\бейсеновад.corp.000\source\repos\DL.ConsoleApp\DL.DataAccess.Abstract\obj\Debug\DL.DataAccess.Abstract.dll
 c:\users\бейсеновад.corp.000\source\repos\DL.ConsoleApp\DL.DataAccess.Abstract\obj\Debug\DL.DataAccess.Abstract.pdb
+C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.DataAccess.Abstract\bin\Debug\DL.DataAccess.Abstract.dll
+C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.DataAccess.Abstract\bin\Debug\DL.DataAccess.Abstract.pdb
+C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.DataAccess.Abstract\bin\Debug\DL.Models.dll
+C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.DataAccess.Abstract\bin\Debug\DL.Models.pdb
+C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.DataAccess.Abstract\obj\Debug\DL.DataAccess.Abstract.csprojAssemblyReference.cache
+C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.DataAccess.Abstract\obj\Debug\DL.DataAccess.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.DataAccess.Abstract\obj\Debug\DL.DataAccess.Abstract.csproj.CopyComplete
+C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.DataAccess.Abstract\obj\Debug\DL.DataAccess.Abstract.dll
+C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.DataAccess.Abstract\obj\Debug\DL.DataAccess.Abstract.pdb
