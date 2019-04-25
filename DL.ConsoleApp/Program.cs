@@ -1,7 +1,6 @@
 ﻿using DL.DataAccess;
 using DL.Models;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace DL.ConsoleApp
 {
@@ -22,24 +21,16 @@ namespace DL.ConsoleApp
                 receivers.Add(item);
             }
 
-            _unitOfWork.Dispose();
-
             var mails = new List<Mail>();
 
-            string mailInfo;
-
-            var mail = new Mail();
-            
+            string mailInfo, mailTheme, mailText;
+           
             System.Console.WriteLine("Введите тему сообщения:");
-            mailInfo = System.Console.ReadLine();
-
-            mail.Theme = mailInfo;
-
+            mailTheme = System.Console.ReadLine();
+            
             System.Console.WriteLine("Введите текст сообщения");
-            mailInfo = System.Console.ReadLine();
-
-            mail.Text = mailInfo;
-
+            mailText = System.Console.ReadLine();
+            
             System.Console.WriteLine("Выберите номера получателей через пробел:");
 
             int i = 0;
@@ -76,8 +67,25 @@ namespace DL.ConsoleApp
             
             foreach(var receiver in currentMailReceivers)
             {
-                System.Console.WriteLine(receiver.Fullname);
+                var mail = new Mail
+                {
+                    Theme = mailTheme,
+                    Text = mailText,
+                    Receiver = receiver,
+                    ReceiverId = receiver.Id
+                };
+
+                mails.Add(mail);
             }
+
+            foreach(var mail in mails)
+            {
+                _unitOfWork.Mails.Add(mail);
+            }
+
+            System.Console.WriteLine("Сообщение успешно отправлено!");
+
+            _unitOfWork.Dispose();
 
             System.Console.ReadLine();
         }

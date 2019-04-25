@@ -10,3 +10,9 @@ C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.Models\obj\Debug\DL.Models.csprojAssem
 C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.Models\obj\Debug\DL.Models.csproj.CoreCompileInputs.cache
 C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.Models\obj\Debug\DL.Models.dll
 C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.Models\obj\Debug\DL.Models.pdb
+C:\Users\БейсеноваД.CORP.000\Source\Repos\DL-HW\DL.Models\bin\Debug\DL.Models.dll
+C:\Users\БейсеноваД.CORP.000\Source\Repos\DL-HW\DL.Models\bin\Debug\DL.Models.pdb
+C:\Users\БейсеноваД.CORP.000\Source\Repos\DL-HW\DL.Models\obj\Debug\DL.Models.csprojAssemblyReference.cache
+C:\Users\БейсеноваД.CORP.000\Source\Repos\DL-HW\DL.Models\obj\Debug\DL.Models.csproj.CoreCompileInputs.cache
+C:\Users\БейсеноваД.CORP.000\Source\Repos\DL-HW\DL.Models\obj\Debug\DL.Models.dll
+C:\Users\БейсеноваД.CORP.000\Source\Repos\DL-HW\DL.Models\obj\Debug\DL.Models.pdb

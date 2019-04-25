@@ -16,3 +16,12 @@ C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.DataAccess.Abstract\obj\Debug\DL.DataA
 C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.DataAccess.Abstract\obj\Debug\DL.DataAccess.Abstract.csproj.CopyComplete
 C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.DataAccess.Abstract\obj\Debug\DL.DataAccess.Abstract.dll
 C:\Users\ww\source\repos\LolyaDi\DL-HW\DL.DataAccess.Abstract\obj\Debug\DL.DataAccess.Abstract.pdb
+C:\Users\БейсеноваД.CORP.000\Source\Repos\DL-HW\DL.DataAccess.Abstract\bin\Debug\DL.DataAccess.Abstract.dll
+C:\Users\БейсеноваД.CORP.000\Source\Repos\DL-HW\DL.DataAccess.Abstract\bin\Debug\DL.DataAccess.Abstract.pdb
+C:\Users\БейсеноваД.CORP.000\Source\Repos\DL-HW\DL.DataAccess.Abstract\bin\Debug\DL.Models.dll
+C:\Users\БейсеноваД.CORP.000\Source\Repos\DL-HW\DL.DataAccess.Abstract\bin\Debug\DL.Models.pdb
+C:\Users\БейсеноваД.CORP.000\Source\Repos\DL-HW\DL.DataAccess.Abstract\obj\Debug\DL.DataAccess.Abstract.csprojAssemblyReference.cache
+C:\Users\БейсеноваД.CORP.000\Source\Repos\DL-HW\DL.DataAccess.Abstract\obj\Debug\DL.DataAccess.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\БейсеноваД.CORP.000\Source\Repos\DL-HW\DL.DataAccess.Abstract\obj\Debug\DL.DataAccess.Abstract.csproj.CopyComplete
+C:\Users\БейсеноваД.CORP.000\Source\Repos\DL-HW\DL.DataAccess.Abstract\obj\Debug\DL.DataAccess.Abstract.dll
+C:\Users\БейсеноваД.CORP.000\Source\Repos\DL-HW\DL.DataAccess.Abstract\obj\Debug\DL.DataAccess.Abstract.pdb
